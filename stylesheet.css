@@ -8,8 +8,6 @@
   box-sizing: border-box;
 }
 
-
-
 body{
   background: #fff;
   color: #333;
@@ -62,8 +60,6 @@ header li a:hover {
   vertical-align: middle
 }
 
-
-
 .hero{
   position:relative;
   height: 78%;
@@ -72,8 +68,6 @@ header li a:hover {
   background-color: #f2f2f2;
   z-index:-5;
 }
-
-
 
 .hero-text{
   position:relative;
@@ -89,8 +83,6 @@ header li a:hover {
   font-family: "Calibri","Lucida Grande","Helvetica Neue","Helvetica","Arial","Verdana","sans-serif";
 }
 
-
-
 .hero-text h1{
   font-size: 52px;
   line-height: 1.0769;
@@ -102,7 +94,6 @@ header li a:hover {
   line-height: 1.125;
   letter-spacing: -0.025em;
 }
-
 
 .hero-figure{
   position:relative;
@@ -147,8 +138,6 @@ header li a:hover {
 .promo .four {
   background-image: url("http://images.apple.com/v/home/bx/images/promo_keynote_large.jpg");
 }
-
-
 
 footer {
   color: #999;
